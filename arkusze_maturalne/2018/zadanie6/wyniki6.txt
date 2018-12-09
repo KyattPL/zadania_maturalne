@@ -1,0 +1,31 @@
+6.1
+Najpopularniejsze pojemnoœci - liczba wyst¹pieñ:
+300 - 173
+200 - 31
+500 - 31
+800 - 29
+700 - 28
+600 - 26
+400 - 20
+290 - 11
+160 - 10
+220 - 10
+
+6.2
+Numer komputera - liczba wymian podzespo³ów:
+42 - 11
+123 - 11
+171 - 12
+202 - 12
+
+6.3 
+Data: 2015-12-23, 
+Sekcja: Q
+
+6.4 
+Numer zg³oszenia: 2087,
+Czas awarii: 2015-11-06 12:38:46,
+Czas naprawy: 2015-11-13 12:38:32
+
+6.5
+Liczba komputerów: 149
