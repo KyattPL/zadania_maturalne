@@ -1,0 +1,44 @@
+6
+a) za wynajem: 400713, za leasing: 391790
+b)
+nr	ozn	firma
+3661T	PN	BARTEX
+3651R	PN	BARTEX
+3641B	PN	BARTEX
+3631H	PN	BARTEX
+3621I	PN	BARTEX
+16838	PN	BARTEX
+16836	PN	BARTEX
+16834	PN	BARTEX
+16832	PN	BARTEX
+16830	PN	BARTEX
+16828	PN	BARTEX
+16826	PN	BARTEX
+16824	PN	BARTEX
+16822	PN	BARTEX
+c) WROCBUD2 - 13 aut
+d)
+POWIAT
+bedzinski
+bialostocki
+braniewski
+buski
+elblaski
+elcki
+gorowski
+jeleniogorski
+kluczborski
+koscianski
+leczynski
+lubelski
+nyski
+olawski
+olsztynski
+opolski
+pilski
+siemiatycki
+tarnobrzeski
+tarnogorski
+tarnowski
+turecki
+zamojski

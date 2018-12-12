@@ -40,3 +40,5 @@ IDklasy	Ocena	Przedmiot	Imie		nazwisko
 2c	1	wos		Dorota		Wojcik
 2c	1	niemiecki	Beata		Zabielana
 2c	1	angielski	Beata		Zabielana
+
+f) Barbara Ogoszewska - klasa 2d - œrednia: 3,6

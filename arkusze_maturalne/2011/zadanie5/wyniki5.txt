@@ -1,0 +1,20 @@
+5
+a) liczba samic: 508, liczba samców: 492
+b)
+Imie		Nazwisko	Liczba Psów
+Edyta		Antczak		9
+Dagmara		Bielawska	9
+Kamila		Bugajno		9
+Pawel		Gabowski	9
+Eugeniusz	Jaworski	9
+Kacper		Kaliszewski	10
+Marcin		Kowal		9
+Ryszard		Kowalski	9
+Marcin		Kwiatkowski	9
+Danuta		Szargawinska	9
+Anna		Szczupak	9
+Krystyna	Tobera		15
+Rafal		Wroclawski	11
+Maria		Wysocka		12
+c) Krystyna Tobera - 41 medali
+d) Tyle osób posiada owczarki: 103
