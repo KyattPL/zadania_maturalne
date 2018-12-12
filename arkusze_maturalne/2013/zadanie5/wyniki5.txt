@@ -1,0 +1,32 @@
+5.a)
+ID_filmu	Tytul
+AA2005		Charlie i fabryka czekolady
+AC2005		Kevin sam w domu
+AB2005		Madagaskar
+BD2005		Opowiesci z Narnii: Lew, czarownica i stara szafa
+b)
+horror - 97
+c)
+Nr_mies Liczba_wypozyczen
+6	24
+7	31
+8	31
+9	37
+10	45
+11	48
+12	58
+d)
+Imie		Nazwisko	Cena_w_zl
+Bartlomiej	Wojciechowski	77
+e)
+9 filmów:
+ID_filmu	Tytul
+AF2008		Jumper
+AX2000		Straszny film
+AX2007		Katyn
+AY2000		Oszukac przeznaczenie
+AY2007		Mgla
+CE2002		Pianista
+CF2004		Eurotrip
+CG2002		The Ring
+DE1999		Mumia

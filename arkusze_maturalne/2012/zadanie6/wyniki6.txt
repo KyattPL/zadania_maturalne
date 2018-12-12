@@ -42,3 +42,8 @@ tarnogorski
 tarnowski
 turecki
 zamojski
+e)
+firma		Œrednia Rata
+BARTEX		2325,64
+REFAMUR		2590,12
+WIET-IND	2556,43
