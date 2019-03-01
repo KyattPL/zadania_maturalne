@@ -17,11 +17,18 @@ with open("wyniki.txt", "w") as file:
 
 for liczba in liczby:
     dzielniki = [1]
-    czynnik = 2
+    czynnik = 3
+    if liczba % 2 == 0:
+        dzielniki.append(2)
     while czynnik <= liczba/2:
         if liczba % czynnik == 0:
             dzielniki.append(czynnik)
-        czynnik += 1
+        if 2 in dzielniki:
+            czynnik += 1
+        else:
+            czynnik += 2
+        if len(dzielniki) > 17:
+            break
     dzielniki.append(liczba)
     if len(dzielniki) == 18:
         with open("wyniki.txt", "a") as file:
@@ -49,3 +56,4 @@ with open("wyniki.txt", "a") as file:
     file.write("Ilosc liczb mniejszych od 1000: {}\n".format(len(mniej1000)))
     file.write("Dwie ostatnie liczby mniejsze od 1000: {}, {}\n\n".format(mniej1000[len(mniej1000)-1], mniej1000[len(mniej1000)-2]))
     file.write("60.3\n")
+    file.write("{}".format(maksimum))
